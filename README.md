@@ -20,7 +20,7 @@ Built with the Next.js App Router, TypeScript & Tailwind
 
 ## To contribute 
 
-Have no fear! This project is distributed under the MIT license, free to be shared/used by all!
+Have no fear! This project is distributed under the MIT license, free to be shared/used by all! \
 **Looking for contributions revolving around post deletion!**
 
 1. How do I make a contribution? 
