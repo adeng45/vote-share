@@ -2,7 +2,7 @@
 
 Built with the Next.js App Router, TypeScript & Tailwind
 
-[DEMO](https://bloggit-ad45.vercel.app/)
+[https://bloggit-ad45.vercel.app](https://bloggit-ad45.vercel.app/)
 <br>
 
 ## Features
